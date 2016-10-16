@@ -12,6 +12,7 @@
     "express": "~4.13.4",
     "express-handlebars": "^3.0.0",
     "morgan": "~1.7.0",
+    "nconf": "^0.8.4",
     "serve-favicon": "~2.3.0",
     "time-ago": "^0.1.0",
     "twitter": "^1.4.0"
